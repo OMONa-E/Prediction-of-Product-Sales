@@ -27,7 +27,7 @@ The exploratory data analysis (EDA) section of the project involves:
 - **Summary Statistics:** Boxplots provide statistical summaries of numerical features, such as median, quartiles, and outliers.
 - **Frequency Analysis:** Countplots are utilized to analyze the frequency of each class in categorical features.
 - **Correlation Analysis:** A heatmap is used to visualize the correlation between features in the dataset.
-  ![Histograms for Numerical Features](https://drive.google.com/file/d/12W-SgYmINI93s8DbN6pOXg2o0mK2KWac/view?usp=drive_link)
+  ![Histograms for Numerical Features](https://github.com/OMONa-E/Prediction-of-Product-Sales/blob/main/Correlation%20Heatmap.png)
 
 The EDA process helps in understanding the underlying patterns, relationships, and characteristics of the data, which is crucial for building accurate predictive models.
 
