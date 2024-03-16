@@ -23,7 +23,7 @@ This project aims to predict product sales using a dataset provided by Omona Emm
 The exploratory data analysis (EDA) section of the project involves:
 
 - **Checking Data Distribution:** Histograms are used to visualize the distribution of numerical features in the dataset.
-  ![Histograms for Numerical Features](https://github.com/OMONa-E/Prediction-of-Product-Sales/blob/main/Correlation%20Heatmap.png)
+  ![Histograms for Numerical Features](https://github.com/OMONa-E/Prediction-of-Product-Sales/blob/main/Histograms%20Numerical%20Feature.png)
 - **Summary Statistics:** Boxplots provide statistical summaries of numerical features, such as median, quartiles, and outliers.
 - **Frequency Analysis:** Countplots are utilized to analyze the frequency of each class in categorical features.
 - **Correlation Analysis:** A heatmap is used to visualize the correlation between features in the dataset.
