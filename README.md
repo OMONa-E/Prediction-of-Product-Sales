@@ -6,8 +6,9 @@ This project aims to predict product sales using a dataset provided by Omona Emm
 
 ## File Description
 
-- `Omona_Emmanuel_Prediction_of_Product_Sales.ipynb`: Jupyter Notebook containing the Python code for data cleaning, preprocessing, and EDA.
+- `Prediction_of_Product_Sales.ipynb`: Jupyter Notebook containing the Python code for data cleaning, preprocessing, and EDA.
 - `sales_predictions_2023.csv`: Dataset file containing the raw data used in the analysis.
+- `ML_model_for_product_sales_prediction.ipynb`: Jupyter Notebook containing the Python code for Machine Learning model
 
 ## Dependencies
 
