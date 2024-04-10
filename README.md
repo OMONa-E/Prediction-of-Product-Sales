@@ -17,6 +17,7 @@ This project aims to predict product sales using a dataset provided by Omona Emm
 - missingno
 - seaborn
 - matplotlib
+- sklearn
 - Google Colab (for notebook execution and visualization)
 
 ## Data Exploratory Data Analysis (EDA)
