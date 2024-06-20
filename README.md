@@ -59,7 +59,7 @@ To run the notebook locally, ensure you have Python installed along with the req
 ## Credits
 
 - **Author:** Omona Emmanuel
-- **Project Completion Date:** [Pending]
+- **Project Completion Date:** Apr 10, 2024
 
 ## License
 
